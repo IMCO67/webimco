@@ -1,2 +1,2 @@
 # webimco
-Repositorio de prueba para usar Got Flow OwO
+Repositorio de prueba para usar Git Flow OwO
